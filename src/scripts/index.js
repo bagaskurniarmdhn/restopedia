@@ -1,7 +1,7 @@
 import 'regenerator-runtime';
 import '../styles/main.css';
-import '../styles/responsive.css';
 import '../styles/detail.css';
+import '../styles/responsive.css';
 import './component/app-bar';
 import './component/footer-bar';
 import './component/hero-bar';
