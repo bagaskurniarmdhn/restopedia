@@ -25,7 +25,7 @@
 .restaurant__image {
   width: 100%;
   justify-items: center;
-  object-fit:cover;
+  object-fit: cover;
 }
 
 .restaurant__info {
@@ -51,8 +51,8 @@
 .restaurant__description-text,
 .restaurant__rating-number,
 .restaurant__listMenu-item {
-  font-size: 1.3rem;
-  font-weight: 400;
+  font-size: 1.1rem;
+  font-weight: 300;
 }
 
 .restaurant__listMenu {
